@@ -1,1 +1,5 @@
-This is a repo for NRMS
+# news-recommendation-with-attention
+
+This is the final assignment for course CSE258
+
+
